@@ -1,0 +1,10 @@
+.markdown-body {
+  box-sizing: border-box;
+  padding: 25px;
+}
+
+@media (max-width: 767px) {
+  .markdown-body {
+    padding: 15px;
+  }
+}
